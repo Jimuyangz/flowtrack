@@ -1,0 +1,1 @@
+python -W ignore::UserWarning inference.py --inference --batch_size 1 --model FlowNet2 --resume models/FlowNet2_300train-checkpoint.pth.tar
